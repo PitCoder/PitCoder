@@ -35,9 +35,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PitCoder&theme=tokyonight&show_icons=true" />
  </a>
 </p>
-
-<p align="center">
- <a href="https://www.buymeacoffee.com/eralejandro" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
- </a>
-</p>
