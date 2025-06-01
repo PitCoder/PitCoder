@@ -23,15 +23,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
 </p>
-
-- 📃 I blog here: https://medium.com/@overlord.lae
-- 💬 Ask me about: .NET, clean-architecture, micro-services, DDD, CQRS, event-sourcing, javascript
-- 👐 I’m looking to collaborate on: .NET projects
-
 </br>
-
-<p align="center">
- <a href="#" alt="Eric Alejandro's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=PitCoder&theme=tokyonight&show_icons=true" />
- </a>
-</p>
